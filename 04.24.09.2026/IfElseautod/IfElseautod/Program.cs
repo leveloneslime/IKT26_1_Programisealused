@@ -1,7 +1,4 @@
-﻿using System.Drawing;
-using System.Globalization;
-
-namespace IfElseautod
+﻿namespace IfElseautod
 {
     internal class Program
     {
