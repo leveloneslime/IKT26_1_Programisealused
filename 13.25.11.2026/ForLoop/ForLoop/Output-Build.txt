@@ -1,0 +1,6 @@
+﻿Build started at 11:41...
+1>------ Build started: Project: ForLoop, Configuration: Debug Any CPU ------
+1>  Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>  ForLoop -> C:\Users\opilane\source\repos\IKT26_1_Programisealused\13.25.11.2026\ForLoop\ForLoop\bin\Debug\net10.0\ForLoop.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 11:41 and took 00,364 seconds ==========
